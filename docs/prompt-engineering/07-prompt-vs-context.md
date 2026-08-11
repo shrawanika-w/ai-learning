@@ -1,4 +1,4 @@
-# 07 - Prompt vs Context
+# Prompt vs Context
 
 **Read time:** 6 minutes  
 **Audience:** Everyone

@@ -1,4 +1,4 @@
-# 12 - Prompt Versioning and Change History
+# Prompt Versioning and Change History
 
 **Read time:** 7 minutes  
 **Audience:** Developers and AI Leads

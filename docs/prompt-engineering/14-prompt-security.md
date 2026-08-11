@@ -1,4 +1,4 @@
-# 14 - Prompt Security
+# Prompt Security
 
 **Read time:** 8 minutes  
 **Audience:** Everyone

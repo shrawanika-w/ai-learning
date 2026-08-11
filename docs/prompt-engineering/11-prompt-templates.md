@@ -1,4 +1,4 @@
-# 11 - Prompt Templates and Reuse
+# Prompt Templates and Reuse
 
 **Read time:** 7 minutes  
 **Audience:** Developers

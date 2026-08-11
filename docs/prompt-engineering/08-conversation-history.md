@@ -1,4 +1,4 @@
-# 08 - Conversation History and the Context Window
+# Conversation History and the Context Window
 
 **Read time:** 7 minutes  
 **Audience:** Developers

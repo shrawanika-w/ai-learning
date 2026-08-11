@@ -1,4 +1,4 @@
-# 02 - A Short History of Prompt Engineering
+# A Short History of Prompt Engineering
 
 **Read time:** 7 minutes  
 **Audience:** Everyone

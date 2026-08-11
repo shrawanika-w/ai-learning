@@ -1,4 +1,4 @@
-# 10 - Prompt Anti-Patterns
+# Prompt Anti-Patterns
 
 **Read time:** 8 minutes  
 **Audience:** Everyone

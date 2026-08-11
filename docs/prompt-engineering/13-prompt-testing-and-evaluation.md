@@ -1,4 +1,4 @@
-# 13 - Prompt Testing and Evaluation
+# Prompt Testing and Evaluation
 
 **Read time:** 8 minutes  
 **Audience:** Developers and AI Leads

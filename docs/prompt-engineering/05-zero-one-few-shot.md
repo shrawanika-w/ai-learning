@@ -1,4 +1,4 @@
-# 05 - Zero-Shot, One-Shot and Few-Shot Prompting
+# Zero-Shot, One-Shot and Few-Shot Prompting
 
 **Read time:** 6 minutes  
 **Audience:** Everyone

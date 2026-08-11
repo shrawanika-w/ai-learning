@@ -1,4 +1,4 @@
-# 09 - Reasoning Prompts
+# Reasoning Prompts
 
 **Read time:** 6 minutes  
 **Audience:** Developers

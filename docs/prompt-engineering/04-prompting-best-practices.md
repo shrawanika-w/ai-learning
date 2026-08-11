@@ -1,4 +1,4 @@
-# 04 - Prompting Best Practices
+# Prompting Best Practices
 
 **Read time:** 8 minutes  
 **Audience:** Everyone

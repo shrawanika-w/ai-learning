@@ -1,4 +1,4 @@
-# 06 - Prompt Decomposition and Chaining
+# Prompt Decomposition and Chaining
 
 **Read time:** 7 minutes  
 **Audience:** Developers

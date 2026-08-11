@@ -1,4 +1,4 @@
-# 15 - GitHub Copilot Prompting
+# GitHub Copilot Prompting
 
 **Read time:** 8 minutes  
 **Audience:** GitHub Copilot users

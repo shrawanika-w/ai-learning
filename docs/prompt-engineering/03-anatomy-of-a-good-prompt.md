@@ -1,4 +1,4 @@
-# 03 - Anatomy of a Good Prompt
+# Anatomy of a Good Prompt
 
 **Read time:** 7 minutes  
 **Audience:** Everyone

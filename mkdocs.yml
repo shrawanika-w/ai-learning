@@ -1,18 +1,18 @@
 site_name: AI Learning Site
-site_url: https://github.com/shrawanika-w/
+site_url: https://shrawanika-w.github.io/ai-learning
 
 theme:
   name: material
   palette:
     - scheme: default
       primary: green
-      accent: light green
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: green
-      accent: light green
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -20,13 +20,21 @@ theme:
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
   - pymdownx.details
   - attr_list
   - md_in_html
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
 
 copyright: "Copyright &copy; 2026 Shrawanika. Content licensed under <a href='https://creativecommons.org' target='_blank' rel='noopener'>CC BY-NC 4.0</a>."
 
@@ -52,3 +60,13 @@ nav:
           - Prompt Cheat Sheet: prompt-engineering/reference/prompt-cheat-sheet.md
           - Prompt Review Checklist: prompt-engineering/reference/prompt-review-checklist.md
           - Prompt Version Template: prompt-engineering/reference/prompt-version-template.md
+  - Claude Prompt Techniques:
+      - Overview: claude-prompt-techniques/00-overview.md
+      - Prompt Engineering Overview: claude-prompt-techniques/01-prompt-engineering-overview.md
+      - Core Prompting Best Practices: claude-prompt-techniques/02-core-prompting-best-practices.md
+      - Context Examples And Structure: claude-prompt-techniques/03-context-examples-and-structure.md
+      - Reasoning Tools And Agents: claude-prompt-techniques/04-reasoning-tools-and-agents.md
+      - Prompting Claude Fable 5: claude-prompt-techniques/05-prompting-claude-fable-5.md
+      - Prompting Claude Opus: claude-prompt-techniques/06-prompting-claude-opus.md
+      - Prompting Claude Sonnet 5: claude-prompt-techniques/07-prompting-claude-sonnet-5.md
+      - Quick Reference: claude-prompt-techniques/08-quick-reference.md
