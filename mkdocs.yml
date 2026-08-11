@@ -1,0 +1,54 @@
+site_name: AI Learning Site
+site_url: https://github.com/shrawanika-w/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
+copyright: "Copyright &copy; 2026 Shrawanika. Content licensed under <a href='https://creativecommons.org' target='_blank' rel='noopener'>CC BY-NC 4.0</a>."
+
+nav:
+  - Home: index.md
+  - Prompt Engineering:
+      - What Is Prompt Engineering: prompt-engineering/01-what-is-prompt-engineering.md
+      - History Of Prompt Engineering: prompt-engineering/02-history-of-prompt-engineering.md
+      - Anatomy Of A Good Prompt: prompt-engineering/03-anatomy-of-a-good-prompt.md
+      - Prompting Best Practices: prompt-engineering/04-prompting-best-practices.md
+      - Zero One Few Shot: prompt-engineering/05-zero-one-few-shot.md
+      - Prompt Decomposition: prompt-engineering/06-prompt-decomposition.md
+      - Prompt Vs Context: prompt-engineering/07-prompt-vs-context.md
+      - Conversation History: prompt-engineering/08-conversation-history.md
+      - Reasoning Prompts: prompt-engineering/09-reasoning-prompts.md
+      - Prompt Anti Patterns: prompt-engineering/10-prompt-anti-patterns.md
+      - Prompt Templates: prompt-engineering/11-prompt-templates.md
+      - Prompt Versioning: prompt-engineering/12-prompt-versioning.md
+      - Prompt Testing And Evaluation: prompt-engineering/13-prompt-testing-and-evaluation.md
+      - Prompt Security: prompt-engineering/14-prompt-security.md
+      - GitHub Copilot Prompting: prompt-engineering/15-github-copilot-prompting.md
+      - Reference:
+          - Prompt Cheat Sheet: prompt-engineering/reference/prompt-cheat-sheet.md
+          - Prompt Review Checklist: prompt-engineering/reference/prompt-review-checklist.md
+          - Prompt Version Template: prompt-engineering/reference/prompt-version-template.md
